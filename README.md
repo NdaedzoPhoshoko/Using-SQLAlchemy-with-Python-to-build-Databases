@@ -53,10 +53,6 @@ This project demonstrates how to use SQLAlchemy with Python to create and manipu
 5. **Querying Data**
     - Query the database to display persons who own a thing.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [SQLAlchemy Documentation](https://www.sqlalchemy.org/)
